@@ -25,7 +25,7 @@ from PyQt5.Qt import QPen
 from PyQt5.Qt import (
     QInputDialog,
     QFileDialog,
-    QPixmap,
+    QImage
 )
 
 import math
@@ -467,7 +467,7 @@ class MainWindow(QMainWindow):
             self.canvas_widget.finish_draw()
         filePath, ok = QFileDialog.getSaveFileName(caption='保存画布', filter='PNG (*.png)')
         rect = self.scene.sceneRect()
-        pixmap = QPixmap(int(rect.height()), int(rect.width()))
+        pixmap = QImage(int(rect.height()), int(rect.width()), QImage.Format_ARGB32_Premultiplied)
         painter = QPainter(pixmap)
         self.scene.render(painter)
         pixmap.save(filePath)

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="267383ef-148e-4ed3-8c69-8ed8b8d924cb" name="Default Changelist" comment="" />
+    <list default="true" id="267383ef-148e-4ed3-8c69-8ed8b8d924cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/191870147.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/191870147_ (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/191870147_v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/3.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/5.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/5.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/a.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/cg_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/cg_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/inp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.log" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.tex" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.tex" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="26DqMYMgKSw88puZwEQGMD3kzc4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +43,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.cg_gui">
+  <component name="RunManager" selected="Python.cg_cli">
     <configuration name="bspline" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cg-2022-a-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CG_demo/cg_cli.py" />
-      <option name="PARAMETERS" value="inp.txt ./" />
+      <option name="PARAMETERS" value="input.txt ./" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -122,10 +144,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653394797649">
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655454823071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1653394797649" />
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1655454823071" />
     <state width="858" height="466" key="DebuggerActiveHint" timestamp="1648554689354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -134,38 +156,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1653916738659" />
-    <state width="745" height="257" key="GridCell.Tab.0.bottom" timestamp="1653917500673">
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1655454803550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.0.center" timestamp="1653917500673">
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
+    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1655454803550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.0.left" timestamp="1653917500673">
+    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1655454803550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.0.right" timestamp="1653917500673">
+    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
+    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1655454803550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.1.bottom" timestamp="1653917500673">
+    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
+    <state width="1515" height="257" key="GridCell.Tab.1.bottom" timestamp="1655454629934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.1.center" timestamp="1653917500673">
+    <state width="1515" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655454629934" />
+    <state width="1515" height="257" key="GridCell.Tab.1.center" timestamp="1655454629934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.1.left" timestamp="1653917500673">
+    <state width="1515" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1655454629934" />
+    <state width="1515" height="257" key="GridCell.Tab.1.left" timestamp="1655454629934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
-    <state width="745" height="257" key="GridCell.Tab.1.right" timestamp="1653917500673">
+    <state width="1515" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1655454629934" />
+    <state width="1515" height="257" key="GridCell.Tab.1.right" timestamp="1655454629934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="1515" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1655454629934" />
     <state x="0" y="57" key="SettingsEditor" timestamp="1652359748186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -204,23 +226,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
-          <line>475</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
-          <line>288</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
           <line>121</line>
           <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
-          <line>163</line>
-          <option name="timeStamp" value="134" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
