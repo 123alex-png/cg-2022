@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="267383ef-148e-4ed3-8c69-8ed8b8d924cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26DqMYMgKSw88puZwEQGMD3kzc4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.cg_gui">
+    <configuration name="bspline" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cg-2022-a-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CG_demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CG_demo/bspline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cg_cli" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cg-2022-a-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CG_demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CG_demo/cg_cli.py" />
+      <option name="PARAMETERS" value="inp.txt ./" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cg_gui" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cg-2022-a-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CG_demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CG_demo/cg_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bspline" />
+      <item itemvalue="Python.cg_cli" />
+      <item itemvalue="Python.cg_gui" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="267383ef-148e-4ed3-8c69-8ed8b8d924cb" name="Default Changelist" comment="" />
+      <created>1646968458177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646968458177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653394797649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1653394797649" />
+    <state width="858" height="466" key="DebuggerActiveHint" timestamp="1648554689354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="858" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1648554689354" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1653916738659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1653916738659" />
+    <state width="745" height="257" key="GridCell.Tab.0.bottom" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.0.center" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.0.left" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.0.right" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.1.bottom" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.1.center" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.1.left" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state width="745" height="257" key="GridCell.Tab.1.right" timestamp="1653917500673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1653917500673" />
+    <state x="0" y="57" key="SettingsEditor" timestamp="1652359748186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1652359748186" />
+    <state x="335" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1652704118887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="335" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1652704118887" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1653915904945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1653915904945" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_algorithms.py</url>
+          <line>216</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>467</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>475</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>288</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CG_demo/cg_gui.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.selected_id" language="Python" />
+        <watch expression="self.status" language="Python" />
+        <watch expression="self.center" language="Python" />
+        <watch expression="self.origin_pos" language="Python" />
+        <watch expression="self.temp_item.p_list" language="Python" />
+        <watch expression="self.origin_p_list" language="Python" />
+        <watch expression="no[0]" language="Python" />
+        <watch expression="self.length" language="Python" />
+        <watch expression="save_path" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

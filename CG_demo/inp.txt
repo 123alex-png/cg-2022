@@ -1,0 +1,5 @@
+resetCanvas 600 600
+setColor 0 255 0
+setColor 255 0 0
+drawLine line2 500 500 400 300 DDA
+saveCanvas 1
