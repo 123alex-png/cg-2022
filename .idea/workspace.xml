@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="267383ef-148e-4ed3-8c69-8ed8b8d924cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/191870147.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/191870147_ (2).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/191870147_v2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CG_demo/3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/3.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CG_demo/5.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/5.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CG_demo/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CG_demo/a.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CG_demo/1.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/1.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CG_demo/cg_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/CG_demo/cg_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CG_demo/inp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.log" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.tex" beforeDir="false" afterPath="$PROJECT_DIR$/报告模板/171860xxx_x月报告.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +35,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.cg_cli">
+  <component name="RunManager" selected="Python.cg_gui">
     <configuration name="bspline" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cg-2022-a-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,22 +143,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1653916738659" />
-    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1655454803550">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1655778866153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
-    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1655454803550">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655778866153" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1655778866153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
-    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1655454803550">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655778866153" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1655778866153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
-    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1655454803550">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655778866153" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1655778866153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655454803550" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655778866153" />
     <state width="1515" height="257" key="GridCell.Tab.1.bottom" timestamp="1655454629934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

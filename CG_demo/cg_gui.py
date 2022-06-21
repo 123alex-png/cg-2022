@@ -236,7 +236,7 @@ class MyCanvas(QGraphicsView):
         elif self.status == 'polygon' or self.status == 'curve':
             self.item_dict[self.temp_id] = self.temp_item
             if not self.list_widget.findItems(self.temp_id, Qt.MatchContains):
-                self.list_widget.addItem(self.temp_id)
+                self.list_widget.addItem(self.temp_id)#防止重复加入
         elif self.status == 'clip':
             if self.selected_id != '' and self.temp_item.item_type == 'line':
                 x_min = min(int(self.origin_pos.x()), x)
@@ -244,7 +244,7 @@ class MyCanvas(QGraphicsView):
                 y_min = min(int(self.origin_pos.y()), y)
                 y_max = max(int(self.origin_pos.y()), y)
                 temp_p_list = alg.clip(self.origin_p_list, x_min, y_min, x_max, y_max, self.temp_algorithm)
-                if len(temp_p_list) == 0:
+                if len(temp_p_list) == 0:#若整个线段全部被裁剪掉，则直接删除该线段对于的图元
                     no = self.list_widget.findItems(self.selected_id, Qt.MatchContains)
                     row = self.list_widget.row(no[0])
                     self.list_widget.takeItem(row)
@@ -457,8 +457,8 @@ class MainWindow(QMainWindow):
         self.item_cnt = 0
         self.canvas_widget.status = 0
         self.canvas_widget.selected_id = ''
-        self.width = QInputDialog.getInt(self, '输入', '重置画布的宽度')[0]
-        self.height = QInputDialog.getInt(self, '输入','重置画布的高度')[0]
+        self.width = QInputDialog.getInt(self, '重置画布尺寸', '输入宽度')[0]
+        self.height = QInputDialog.getInt(self, '重置画布尺寸','输入高度')[0]
         self.scene.setSceneRect(0, 0, self.width, self.height)
         self.canvas_widget.setFixedSize(self.width, self.height)
 
